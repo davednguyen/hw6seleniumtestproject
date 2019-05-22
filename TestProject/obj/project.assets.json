@@ -32,7 +32,7 @@
           "lib/net47/WebDriver.dll": {}
         }
       },
-      "Selenium.WebDriver.ChromeDriver/75.0.3770.8-beta": {
+      "Selenium.WebDriver.ChromeDriver/74.0.3729.6": {
         "type": "package",
         "build": {
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
@@ -70,7 +70,7 @@
           "lib/net47/WebDriver.dll": {}
         }
       },
-      "Selenium.WebDriver.ChromeDriver/75.0.3770.8-beta": {
+      "Selenium.WebDriver.ChromeDriver/74.0.3729.6": {
         "type": "package",
         "build": {
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
@@ -108,7 +108,7 @@
           "lib/net47/WebDriver.dll": {}
         }
       },
-      "Selenium.WebDriver.ChromeDriver/75.0.3770.8-beta": {
+      "Selenium.WebDriver.ChromeDriver/74.0.3729.6": {
         "type": "package",
         "build": {
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
@@ -146,7 +146,7 @@
           "lib/net47/WebDriver.dll": {}
         }
       },
-      "Selenium.WebDriver.ChromeDriver/75.0.3770.8-beta": {
+      "Selenium.WebDriver.ChromeDriver/74.0.3729.6": {
         "type": "package",
         "build": {
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
@@ -336,10 +336,10 @@
         "selenium.webdriver.nuspec"
       ]
     },
-    "Selenium.WebDriver.ChromeDriver/75.0.3770.8-beta": {
-      "sha512": "XBORl4SB3PV3CPuPHORWK232g5CkUfzNFh18nYhySKZrBSvH593CulTdoNpK6+bEBCuIYmwLbDLMDv9nRF4Faw==",
+    "Selenium.WebDriver.ChromeDriver/74.0.3729.6": {
+      "sha512": "C9dfVytnfhzQH49+TZHAuyZZmoRPTv/SrvL2sdOnnEjucMJJuvsp7/hudFQYfYTmjgBLq8znwmvMIm5ZbTZ62Q==",
       "type": "package",
-      "path": "selenium.webdriver.chromedriver/75.0.3770.8-beta",
+      "path": "selenium.webdriver.chromedriver/74.0.3729.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -347,7 +347,7 @@
         "driver/linux64/chromedriver",
         "driver/mac64/chromedriver",
         "driver/win32/chromedriver.exe",
-        "selenium.webdriver.chromedriver.75.0.3770.8-beta.nupkg.sha512",
+        "selenium.webdriver.chromedriver.74.0.3729.6.nupkg.sha512",
         "selenium.webdriver.chromedriver.nuspec"
       ]
     }
@@ -357,7 +357,7 @@
       "MSTest.TestAdapter >= 2.0.0-beta4",
       "MSTest.TestFramework >= 2.0.0-beta4",
       "Selenium.WebDriver >= 4.0.0-alpha01",
-      "Selenium.WebDriver.ChromeDriver >= 75.0.3770.8-beta"
+      "Selenium.WebDriver.ChromeDriver >= 74.0.3729.6"
     ]
   },
   "packageFolders": {
@@ -407,7 +407,7 @@
           },
           "Selenium.WebDriver.ChromeDriver": {
             "target": "Package",
-            "version": "[75.0.3770.8-beta, )"
+            "version": "[74.0.3729.6, )"
           }
         }
       }

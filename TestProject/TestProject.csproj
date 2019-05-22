@@ -39,10 +39,11 @@
     </PackageReference>
     <PackageReference Include="Selenium.WebDriver" Version="4.0.0-alpha01" />
     <PackageReference Include="Selenium.WebDriver.ChromeDriver">
-      <Version>75.0.3770.8-beta</Version>
+      <Version>74.0.3729.6</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChromeSeleniumTest.cs" />
     <Compile Include="EdgeDriverTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
